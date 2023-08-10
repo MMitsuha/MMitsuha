@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://avatars.githubusercontent.com/u/47047883"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MMitsuha&show_icons=true&theme=chartreuse-dark"/>
 
 你好鸭~ 我是 `宮水_五葉`，我来自电影[《君の名は。》](https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82)，呜呜.. 可惜现在还没有泷来陪我 QAQ
 
@@ -16,15 +16,20 @@
   2. E-mail：caizhe666@qq.com
 - 😄 我还是一名B站UP主呢！
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MMitsuha&theme=radical&date_format=%5BY.%5Dn.j&locale=zh"/>
 <br><br>
 
 ##### ✨我好饿(⊙﹏⊙)，想要投食✨
 
 **和我用爱❤发电吧~**
 
+<br><br>
+
 ---
 
+
 <!--
+<img align="left" src="https://metrics.lecoq.io/MMitsuha?template=classic&isocalendar=1&isocalendar.duration=full-year"/>
 **caizhe666/caizhe666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
