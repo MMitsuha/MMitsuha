@@ -14,4 +14,3 @@
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MMitsuha&show_icons=true&theme=chartreuse-dark)
-![github contributes](https://github-readme-streak-stats.herokuapp.com/?user=MMitsuha&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)
